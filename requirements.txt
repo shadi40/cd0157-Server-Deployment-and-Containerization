@@ -1,0 +1,9 @@
+pyjwt
+flask
+Jinja2
+MarkupSafe
+ruamel.yaml
+itsdangerous
+werkzeug
+gunicorn
+pytest
