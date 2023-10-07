@@ -9,7 +9,7 @@ Parameters:
   EksClusterName:
     Type: String
     Description: The name of the EKS cluster created
-    Default: simple-jwt-api
+    Default: a945c8f4560404651a288f6cde341c8f-240529763.us-east-2.elb.amazonaws.com
     MinLength: 1
     MaxLength: 100
     ConstraintDescription: You must enter the EKS cluster name
